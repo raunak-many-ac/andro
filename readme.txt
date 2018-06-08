@@ -14,3 +14,7 @@ Make the app for tracking location of there children when they are out of homes
 ----> google maps can be very helpful, since parents can completely access their child's phone they can turn location onn.
 ----> machine learning and deep learning techniques can easily detect misbehaviour in child's location and inform parent.
 ----> 
+
+
+vtu subject wise notes database system with ratings and reviews of students on particular notes
+----> recommender system with notes recommendation can be done
